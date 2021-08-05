@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Hirunima Serasinghe*
+
+_Hirunima Serasinghe_
+
+
+
+**Hirunima Serasinghe**
+
+__Hirunima Serasinghe__
+
+
+
+_I **am** Hirunima Serasinghe_ 
